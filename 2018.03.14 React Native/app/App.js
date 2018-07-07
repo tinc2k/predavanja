@@ -14,6 +14,6 @@ import Exercise7 from './Exercise7';
 
 export default class App extends React.Component {
   render() {
-    return <Exercise7 />
+    return <Exercise0 />
   }
 }
